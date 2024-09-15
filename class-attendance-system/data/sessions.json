@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "className": "8A",
+    "dateTime": "2024-09-05T17:38",
+    "students": [
+      {
+        "id": "1",
+        "name": "Nguyễn Phúc Công",
+        "dateOfBirth": "2024-09-15",
+        "gender": "male",
+        "address": "phú diễn",
+        "phone": "0862077975"
+      },
+      {
+        "id": "2",
+        "name": "Tạ văn Đức",
+        "dateOfBirth": "2024-09-13",
+        "gender": "male",
+        "address": "ha nam",
+        "phone": "0862077975"
+      }
+    ],
+    "attendance": {
+      "attendance": [
+        {
+          "studentName": "Tạ văn Đức",
+          "attendanceStatus": "present"
+        },
+        {
+          "studentName": "Nguyễn Phúc Công",
+          "attendanceStatus": "present"
+        },
+        {
+          "studentName": "Tạ văn Đức",
+          "attendanceStatus": "present"
+        },
+        {
+          "studentName": "Nguyễn Phúc Công",
+          "attendanceStatus": "present"
+        },
+        {
+          "studentName": "Tạ văn Đức",
+          "attendanceStatus": "present"
+        }
+      ]
+    }
+  }
+]
